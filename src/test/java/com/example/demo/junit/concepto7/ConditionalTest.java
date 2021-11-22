@@ -78,4 +78,12 @@ public class ConditionalTest {
         System.out.println("Hola Mundo!");
 
     }
+
+    @Test
+    void test8(){
+
+        System.out.println("Adios Mundo!");
+
+
+    }
 }

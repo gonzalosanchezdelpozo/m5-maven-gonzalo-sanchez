@@ -23,7 +23,6 @@ jobs:
         distribution: 'adopt'
         cache: maven
 
-
     - name: Cache the Maven packages to speed up build
       uses: actions/cache@v1
       with:
